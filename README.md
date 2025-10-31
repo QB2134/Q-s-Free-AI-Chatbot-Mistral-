@@ -32,7 +32,6 @@ ollama pull mistral
 3️⃣ Clone This Repository
 bash
 Copy code
-git clone https://github.com/QB2134/Q-s-Free-AI-Chatbot-Mistral.git
 cd Q-s-Free-AI-Chatbot
 4️⃣ Run the App
 bash
